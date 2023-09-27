@@ -146,8 +146,8 @@ export default function Home() {
         </Paper>
         <Footer
           year="2023"
-          fullName="Tanakrit Boonyoung"
-          studentId="650612084"
+          fullName="yinpiao wongtrakunmeka"
+          studentId="650612103"
         />
       </Stack>
     </Container>
